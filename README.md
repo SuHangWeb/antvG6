@@ -4,13 +4,13 @@
 
 > import 引用
 ```
- import ring from './modules/ring.vue'
+ import mind from './modules/mind.vue'
 ```
 
 > 注册组件
 ```
 components {
-    ring
+    mind
 }
 ```
 
@@ -18,8 +18,8 @@ components {
 ```
 <mind :data="dataJson" :height="mindHeight"/>
 ```
-dataJson 数据
-height 动态高度 （一般设置 当前图表组件的父元素的高度就好 最好动态获取）
+* dataJson 数据
+* height 动态高度 （一般设置 当前图表组件的父元素的高度就好 最好动态获取）
 
 #### dataJson 数据格式示例
 
