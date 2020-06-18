@@ -14,7 +14,7 @@
           return {}
         }
       },
-      //宽高
+      //高度
       height:{
         type: Number,
         default () {
