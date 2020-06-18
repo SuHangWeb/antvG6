@@ -1,6 +1,8 @@
 # antv G6 图表-思维导图 在vue中使用
 
-### 安装 依赖于@antv/g6 官网地址[传送门](https://g6.antv.vision/zh/docs/manual/getting-started)
+> 依赖于@antv/g6 官网地址[传送门](https://g6.antv.vision/zh/docs/manual/getting-started)
+
+### 安装 
 
 ```
 npm install --save @antv/g6
